@@ -1,4 +1,4 @@
-(module Jack_3.5mm_QingPu_WQP-PJ302M_Horizontal_CircularHoles (layer F.Cu) (tedit 5CB41171)
+(module Jack_3.5mm_QingPu_WQP-PJ302M_Horizontal_CircularHoles (layer F.Cu) (tedit 5E8E41E1)
   (descr "TRS 3.5mm, horizontal, PCB mount, WQP-PJ302M, circular holes (http://www.qingpu-electronics.com/en/products/WQP-PJ302M-57.html)")
   (tags "WQP-PJ302M TRS 3.5mm mono horizontal qingpu jack")
   (fp_text reference REF** (at -4.35 4) (layer F.SilkS)
@@ -57,4 +57,9 @@
   (pad T thru_hole circle (at 7.85 0) (size 3.302 3.302) (drill 2.54) (layers *.Cu *.Mask))
   (pad TN thru_hole circle (at 5.65 5.2) (size 3.302 3.302) (drill 2.54) (layers *.Cu *.Mask))
   (pad S thru_hole circle (at -5.35 0) (size 3.302 3.302) (drill 2.54) (layers *.Cu *.Mask))
+  (model ${KICAD_USER_3DMODEL_DIR}/jwm_kicad_3dmodels_misc.3dshapes/QingPu_WQP-PJ302M.wrl
+    (offset (xyz -8 -5 0.1))
+    (scale (xyz 0.4 0.4 0.4))
+    (rotate (xyz 0 0 0))
+  )
 )
