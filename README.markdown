@@ -28,7 +28,7 @@ misc_reference_for_test_and_whatever                          |   | three holes,
 - `K` means it uses a model from the KiCad library
 - `C` means it uses a model found in [my misc 3D models library](https://github.com/joem/jwm_kicad_3dmodels_misc.3dshapes)
 
-For an easy preview of what these footprints look like, look in the images folder.
+For an easy preview of what these footprints look like, look in the [images](images/) folder.
 
 Please feel free to use these footprints as you'd like in your own projects. If they help you, I'm glad.
 
