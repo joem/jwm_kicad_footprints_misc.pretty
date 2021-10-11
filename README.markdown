@@ -12,6 +12,8 @@ Footprint                                                 | 3D?   | Description
 Arduino_Nano_WithMFHeadersAnd3DModel                          | O | the KiCad library footprint with a found 3D model associated
 C_Disc_D5.0mm_W2.5mm_P2.50mm_LZX                              | K | a small capacitor footprint made to look how they do on LZX Cadet PCBs
 D_P7.62mm_Horizontal_LZX                                      | K | a diode footprint made to look how they do on LZX Cadet PCBs
+ESP32_Devkit_V1_DOIT_JWM                                      | O | modified version of a found ESP32 devkit footprint
+ESP32_Devkit_V1_DOIT_JWM_LessSilk                             | O | modified version of a found ESP32 devkit footprint, with less silkscreen
 IDC-Header_2x05_P2.54mm_Vertical_EurorackPower                | K | a 2x5 IDC header with Eurorack power annotations
 IDC-Header_2x08_P2.54mm_Vertical_EurorackPower                | K | a 2x8 IDC header with Eurorack power annotations
 Jack_3.5mm_CUI_SJ1-3535NG_Horizontal_With3DModel              | O | the KiCad library footprint with a found 3D model associated

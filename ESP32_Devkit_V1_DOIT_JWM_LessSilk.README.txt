@@ -1,0 +1,7 @@
+This is a modified version of Victor Lamoine's esp32_devkit_v1_doit.kicad_mod that I found here:
+https://gitlab.com/VictorLamoine/kicad/-/tree/master/footprints/esp32_devkit_v1_doit.pretty
+
+My modifications were to make the holes and pads bigger, and to remove some of the silkscreen elements.
+
+I don't really understand how the original's BSD license works for derivations/modifications and I don't really care about attribution for myself for my modifications, so I'm just including the original license and attribution since I believe that should meet the terms of the original license.
+
