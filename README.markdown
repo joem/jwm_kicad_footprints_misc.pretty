@@ -18,6 +18,7 @@ Jack_3.5mm_QingPu_WQP-PJ302M_Horizontal_CircularHoles         | C | a PJ302M jac
 PinHeader_2x05_P2.54mm_Vertical_EurorackPower                 | K | a 2x5 pin header with Eurorack power annotations
 PinHeader_2x08_P2.54mm_Vertical_EurorackPower                 | K | a 2x8 pin header with Eurorack power annotations
 Potentiometer_Alpha_RD901F-20_Single_Horizontal_CircularHoles |   | a horizontally mounted Alpha potentiometer
+RCA-Phono_CUI-Devices_RCJ-01X_Horizontal                      |   | a horizontally mounted RCA phone connector
 RCA-Phono_CUI-Devices_RCJ-02X_Vertical                        | C | a vertically mounted RCA phono connector (now with pin 1 as tip)
 RCA-Phono_CUI-Devices_RCJ-02X_Vertical_InvertedPinNumbers     | C | same as RCA-Phono_CUI-Devices_RCJ-02X_Vertical but pin 2 is tip
 R_Axial_P7.62mm_Horizontal_LZX                                | K | a small resistor footprint made to look how they do on LZX Cadet PCBs
