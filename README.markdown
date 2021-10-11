@@ -17,6 +17,10 @@ Jack_3.5mm_QingPu_WQP-PJ302M_Horizontal                       | C | a PJ302M jac
 Jack_3.5mm_QingPu_WQP-PJ302M_Horizontal_CircularHoles         | C | a PJ302M jack with round holes
 PinHeader_2x05_P2.54mm_Vertical_EurorackPower                 | K | a 2x5 pin header with Eurorack power annotations
 PinHeader_2x08_P2.54mm_Vertical_EurorackPower                 | K | a 2x8 pin header with Eurorack power annotations
+PinSocket_1x04_P2.54mm_Vertical_NoSilk                        | K | a 1x4 pin socket without any silkscreen
+PinSocket_1x06_P2.54mm_Vertical_NoSilk                        | K | a 1x6 pin socket without any silkscreen
+PinSocket_1x09_P2.54mm_Vertical_NoSilk                        | K | a 1x9 pin socket without any silkscreen
+PinSocket_1x15_P2.54mm_Vertical_NoSilk                        | K | a 1x15 pin socket without any silkscreen
 Potentiometer_Alpha_RD901F-20_Single_Horizontal_CircularHoles |   | a horizontally mounted Alpha potentiometer
 RCA-Phono_CUI-Devices_RCJ-01X_Horizontal                      |   | a horizontally mounted RCA phone connector
 RCA-Phono_CUI-Devices_RCJ-02X_Vertical                        | C | a vertically mounted RCA phono connector (now with pin 1 as tip)
