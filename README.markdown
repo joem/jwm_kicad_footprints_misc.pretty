@@ -16,6 +16,9 @@ ESP32_Devkit_V1_DOIT_JWM                                      | O | modified ver
 ESP32_Devkit_V1_DOIT_JWM_LessSilk                             | O | modified version of a found ESP32 devkit footprint, with less silkscreen
 IDC-Header_2x05_P2.54mm_Vertical_EurorackPower                | K | a 2x5 IDC header with Eurorack power annotations
 IDC-Header_2x08_P2.54mm_Vertical_EurorackPower                | K | a 2x8 IDC header with Eurorack power annotations
+INA3221_Module                                                |   | an INA3221 module, with VIN holes sized the same as on the module
+INA3221_Module_P2.54mm                                        |   | an INA3221 module, with VIN, VPU, and extra ground holes sized to fit P2.54mm pin headers
+INA3221_Module_P2.54mm_NoVPU_NoExtraGnds                      |   | an INA3221 module, with VIN holes sized to fit P2.54mm pin headers, and no holes for VPU or the extra grounds
 Jack_3.5mm_CUI_SJ1-3535NG_Horizontal_With3DModel              | O | the KiCad library footprint with a found 3D model associated
 Jack_3.5mm_QingPu_WQP-PJ302M_Horizontal                       | C | a PJ302M jack with slot holes
 Jack_3.5mm_QingPu_WQP-PJ302M_Horizontal_CircularHoles         | C | a PJ302M jack with round holes
@@ -29,11 +32,15 @@ PinSocket_1x15_P2.54mm_Vertical_NoSilk                        | K | a 1x15 pin s
 Potentiometer_Alpha_RD901F-20_Single_Horizontal_CircularHoles |   | a horizontally mounted Alpha potentiometer
 Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_With3DModel | O | the KiCad library footprint with a found 3D model associated
 RCA-Phono_CUI-Devices_RCJ-01X_Horizontal                      |   | a horizontally mounted RCA phone connector
+RCA-Phono_CUI-Devices_RCJ-01X_or_RCJ-02X                      |   | an RCA phono footprint for either CUI Devices RCJ-01X or RCJ-02X, with one signal hole part way between the ideal placement for each jack (need to bend pin slightly in either case)
+RCA-Phono_CUI-Devices_RCJ-01X_or_RCJ-02X_alt2                 |   | an RCA phono footprint for either CUI Devices RCJ-01X or RCJ-02X, with two signal holes right near each other (untested - not sure if fabs like it)
 RCA-Phono_CUI-Devices_RCJ-02X_Vertical                        | C | a vertically mounted RCA phono connector (now with pin 1 as tip)
 RCA-Phono_CUI-Devices_RCJ-02X_Vertical_InvertedPinNumbers     | C | same as RCA-Phono_CUI-Devices_RCJ-02X_Vertical but pin 2 is tip
 R_Axial_P7.62mm_Horizontal_LZX                                | K | a small resistor footprint made to look how they do on LZX Cadet PCBs
+SSD1306_I2C_OLED_Module_0.96_inch                             | O | an SSD1306 I2C OLED display module with a 0.96" screen, no mounting holes
 Switch_Toggle_Mountain-Switch_10TF230_Horizontal              |   | a horizontally mounted SPDT toggle switch
 misc_reference_for_test_and_whatever                          |   | three holes, not sure why I made this
+
 
 3D? Column Key:
 
