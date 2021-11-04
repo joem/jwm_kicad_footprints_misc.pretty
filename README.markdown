@@ -1,7 +1,7 @@
 jwm_kicad_footprints_misc.pretty
 ================================
 
-This is a collection of miscellaneous footprints for [KiCad](https://kicad-pcb.org). Currently, this is my only custom footprints library, but it's also a holding library before I can break footprints out into separate specialized libraries.
+This is a collection of miscellaneous footprints for [KiCad](https://kicad.org). Currently, this is my only custom footprints library, but it's also a holding library before I can break footprints out into separate specialized libraries.
 
 (You might also be interested in my related [misc symbols library](https://github.com/joem/jwm_kicad_symbols_misc) and [misc 3D models library](https://github.com/joem/jwm_kicad_3dmodels_misc.3dshapes) for KiCad.)
 
